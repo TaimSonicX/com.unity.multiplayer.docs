@@ -85,3 +85,8 @@ There are companies which provide relay servers in your cloud ready for your gam
 
 Netcode modular transport system supports all the options above. Most regular transports will allow you to connect to them
 via port forwarding. Netcode can support platform specific relays via Transport. You can find implementations in the Netcode-community-contributions repository. Netcode also supports cross platform listen servers by integrating a third party relay service via transport. You can also write your own relay server or NAT punch server for Netcode.
+
+This wont work
+
+
+Life is fucking hard :,(
